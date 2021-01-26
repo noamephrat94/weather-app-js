@@ -1,7 +1,7 @@
 currentLoc = navigator.geolocation.getCurrentPosition
 
 const api = {
-  key: "549d62e823d31ec74821515b02fbaf6a",
+  key: "",
   base: "https://api.openweathermap.org/data/2.5/"
 }
 
